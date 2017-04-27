@@ -1,0 +1,118 @@
+1492365415376	geckodriver	INFO	Listening on 127.0.0.1:46085
+1492365416422	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RGCVJRZHJoSL
+1492365416423	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492365416467	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35335
+1492365421121	Marionette	INFO	Listening on port 35335
+1492365422827	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6667] ###!!! ABORT: Aborting on channel error.: file /build/firefox-bLMGaO/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 6667] ###!!! ABORT: Aborting on channel error.: file /build/firefox-bLMGaO/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492365531080	geckodriver	INFO	Listening on 127.0.0.1:47947
+1492365532126	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qOlcFTULmBrY
+1492365532127	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492365532129	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44670
+1492365533216	Marionette	INFO	Listening on port 44670
+1492365534267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492365615707	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Child 7003] ###!!! ABORT: Aborting on channel error.: file /build/firefox-bLMGaO/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 7003] ###!!! ABORT: Aborting on channel error.: file /build/firefox-bLMGaO/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492365658671	geckodriver	INFO	Listening on 127.0.0.1:57545
+1492365659724	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bpETlikg2xFj
+1492365659725	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492365659727	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45354
+1492365660800	Marionette	INFO	Listening on port 45354
+1492365661839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492365743322	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Child 7301] ###!!! ABORT: Aborting on channel error.: file /build/firefox-bLMGaO/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 7301] ###!!! ABORT: Aborting on channel error.: file /build/firefox-bLMGaO/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492365834758	geckodriver	INFO	Listening on 127.0.0.1:43779
+1492365835810	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fM9wtCnhy3hK
+1492365835811	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492365835813	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36706
+1492365836820	Marionette	INFO	Listening on port 36706
+1492365837875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492365919186	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1492366010126	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1492366033390	geckodriver	INFO	Listening on 127.0.0.1:46279
+1492366034442	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.02rXZA7VaQwd
+1492366034443	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492366034446	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36787
+1492366035516	Marionette	INFO	Listening on port 36787
+1492366036666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492366118115	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1492366208898	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492368377056	geckodriver	INFO	Listening on 127.0.0.1:38271
+1492368378105	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6PTANb2LaZdP
+1492368378107	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492368378112	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44090
+1492368379209	Marionette	INFO	Listening on port 44090
+1492368380288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492368461586	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Child 10328] ###!!! ABORT: Aborting on channel error.: file /build/firefox-bLMGaO/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 10328] ###!!! ABORT: Aborting on channel error.: file /build/firefox-bLMGaO/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492368653883	geckodriver	INFO	Listening on 127.0.0.1:51771
+1492368654931	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6GXD78WT00gS
+1492368654932	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492368654934	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42657
+1492368656069	Marionette	INFO	Listening on port 42657
+1492368657257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492368755991	geckodriver	INFO	Listening on 127.0.0.1:43695
+1492368757042	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zOF2U4YDI01g
+1492368757043	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492368757046	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34595
+1492368758185	Marionette	INFO	Listening on port 34595
+1492368759577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492368810659	geckodriver	INFO	Listening on 127.0.0.1:37304
+1492368811709	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Ts1xqw3re9ae
+1492368811710	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492368811713	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40530
+1492368812841	Marionette	INFO	Listening on port 40530
+1492368814313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492369624790	geckodriver	INFO	Listening on 127.0.0.1:34838
+1492369625842	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.l3JPmlexbwVO
+1492369625843	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492369625845	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34253
+1492369626837	Marionette	INFO	Listening on port 34253
+1492369627904	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=10.5876) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D5,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1492397243442	geckodriver	INFO	Listening on 127.0.0.1:41125
+1492397244504	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IDovcYtE1qNY
+1492397244505	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492397244508	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44299
+1492397245755	Marionette	INFO	Listening on port 44299
+1492397247314	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:4325): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+1492397305070	geckodriver	INFO	Listening on 127.0.0.1:52339
+1492397306120	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BBXLbdtyMTn1
+1492397306121	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492397306124	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41204
+1492397307474	Marionette	INFO	Listening on port 41204
+1492397308702	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:4493): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:4493): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
