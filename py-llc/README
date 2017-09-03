@@ -1,0 +1,29 @@
+Python implementation of LLC image encoding
+Theodore Nguyen
+Chris Jeon
+Eric Fornaciari
+
+
+To execute, make sure the following folder 
+conditions are met: 
+(1) data contains folders whose names are the image labels
+which those folders contain the SIFT descriptors of each
+image. These are used for training the model.
+(2) dictionary contains the codebook; to specify the name
+of the codebook, go into LLC_Test.py and in line 26, 
+change the value of codebookName to a string that is the
+name of your desired codebook
+(3) features will later contain folders whose names are 
+image labels and whose folders will later contain the
+final image representations of each image from "data".
+Will overwrite whatever is currently inside
+(4) test contains folder whose names are the image labels
+which those folders contain the SIFT descriptors of each
+image. These are used for testing the model. Make sure
+these images are different from the ones in "data".
+
+to execute, run 
+
+	python LLC_Test.py
+
+at the command line.
